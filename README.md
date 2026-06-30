@@ -10,7 +10,13 @@
 * Python
 * HTML
 * Excel
-
+*Python
+*Data Analysis & Visualization
+*Data Preprocessing
+*NumPy
+*Scikit-learn
+*OpenCV (Basic)
+*PyTorch (Basic)
 ## 📌 Current Focus
 
 * Building projects in data analytics
